@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 merge conflict in master
+=======
+merge conflict in mcb1
+>>>>>>> merge-conflict-branch1
