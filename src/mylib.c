@@ -1,4 +1,4 @@
 #include<stdio.h>
 void main(){
-printf("Happy Sankranthi");
+printf("Happy Makara Sankranthi");
 }
